@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int a,b;
+
+    // read
+
+    cout<<"enter the first number: "; cin>>a;
+    cout<<"enter the second number: "; cin>>b;
+
+    // display
+
+    cout<<"the two numbers are: "<<a<<" and "<<b;
+
+    return 0;
+}
